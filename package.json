@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Primeiro projeto que estou para aprender sobre o o mundo da programação.",
   "main": "index.js",
+  
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
     "vercel-build": "next build"
   },
   "author": "",
